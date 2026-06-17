@@ -17,4 +17,4 @@ Building production systems: CRM platforms, VoIP auto-dialers, Telegram bots, AI
 | [telegram-monitor](https://github.com/AlexandrescuG/telegram-monitor) | MarketTwits channel monitor & relay bot | Python · Telethon |
 
 ## Contact
-📧 gheorgiialexandrecu@gmail.com · 💬 [@galex_first](https://t.me/galex_first)
+🌐 [sbfconsult.com](https://sbfconsult.com) · 📧 gheorgiialexandrecu@gmail.com · 💬 [@galex_first](https://t.me/galex_first)
